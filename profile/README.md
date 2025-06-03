@@ -9,3 +9,4 @@ We also maintain a team on [HackTheBox](https://app.hackthebox.com/teams/overvie
 - [shkz](https://github.com/shkz-x/)
 - [lautarovculic](https://github.com/lautarovculic)
 - [0xbara](https://github.com/0xbara)
+- [jd-apprentice](https://github.com.ar/jd-apprentice)
